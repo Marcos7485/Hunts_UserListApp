@@ -39,7 +39,7 @@ Este projeto demonstra a capacidade de configurar um projeto Laravel, consumir A
 
 Com este projeto, você terá uma aplicação Laravel funcional que consome uma API externa e exibe os dados de usuários em uma tabela com opções de edição e exclusão, cumprindo os requisitos solicitados.
 
-**Observação:** Este projeto é puramente didático e não implementa funcionalidades reais de edição e exclusão de dados de usuários, uma vez que não há um banco de dados envolvido.
+**Observação:** Este projeto é puramente didático e não implementa funcionalidades reais de edição e exclusão de dados de usuários, tampouco há um banco de dados envolvido.
 
 
 ### ####################################################################################################
@@ -85,7 +85,7 @@ This project demonstrates the ability to set up a Laravel project, consume exter
 
 With this project, you will have a functional Laravel application that consumes an external API and displays user data in a table with edit and delete options, meeting the requested requirements.
 
-**Note:** This project is purely educational and does not implement actual edit and delete functionality for user data, as there is no database involved.
+**Note:** This project is purely educational and does not implement actual edit and delete functionality for user data, and there is no database involved.
 
 
 
